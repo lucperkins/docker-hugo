@@ -23,4 +23,4 @@ RUN mkdir -p /usr/local/src \
 
 WORKDIR /src
 
-EXPOSE 1313
+EXPOSE 1313 35729
